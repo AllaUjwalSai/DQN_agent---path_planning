@@ -4,6 +4,9 @@ This repository contains the official Python implementation for the paper: **"Le
 
 The code provides a complete framework for training a Deep Q-Network (DQN) agent to navigate complex 2D grid environments. The agent learns to find paths that are not only short but also qualitatively superior, prioritizing smooth terrain and a comfortable ride over the absolute shortest route.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/63ed431e-4b25-415c-82e3-1803109b5932" />
+
+
 *Fig. 1: Qualitative comparison of paths on a 60x60 map. The DQN agent's path (blue) intelligently follows the high-smoothness "highway," while the traditional A* algorithm (red) takes a shorter but rougher path.*
 
 ---
